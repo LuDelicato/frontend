@@ -1,0 +1,9 @@
+body {
+  background: #f6f7f8;
+  font-family: 'Poppins', sans-serif;
+  background-image: url(/public/images/wt-spray-paint.png);
+}
+
+html {
+  scroll-behavior: smooth;
+}

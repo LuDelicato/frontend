@@ -1,0 +1,3904 @@
+[
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-189" ,
+    "name": "Ipanema Yellow" ,
+    "hex": "#fff9c3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-20" ,
+    "name": "Party Yellow" ,
+    "hex": "#fff058"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-109" ,
+    "name": "Canarias Yellow" ,
+    "hex": "#fedf00"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-110" ,
+    "name": "Yosemite Yellow" ,
+    "hex": "#c7b300"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-111" ,
+    "name": "Babel Green" ,
+    "hex": "#a29400"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-112" ,
+    "name": "Mission Green" ,
+    "hex": "#766a10"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-113" ,
+    "name": "Dragon Green" ,
+    "hex": "#5e5003"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-114" ,
+    "name": "Maya Green" ,
+    "hex": "#3d3408"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-192" ,
+    "name": "Sundance" ,
+    "hex": "#ffebc2"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-102" ,
+    "name": "Dalai Orange" ,
+    "hex": "#fddca3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-103" ,
+    "name": "Plural Orange" ,
+    "hex": "#fac67e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-50" ,
+    "name": "Solar Orange" ,
+    "hex": "#f7b060"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-105" ,
+    "name": "Tangerine" ,
+    "hex": "#f5a54a"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-106" ,
+    "name": "Lava Orange" ,
+    "hex": "#ef8407"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-2004" ,
+    "name": "Kalani Orange" ,
+    "hex": "#ea640d"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-107" ,
+    "name": "Mars Orange" ,
+    "hex": "#e64715"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-108" ,
+    "name": "Phoenix Orange" ,
+    "hex": "#be3819"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-190" ,
+    "name": "Malta White" ,
+    "hex": "#f9f6e9"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-1013" ,
+    "name": "Bone White" ,
+    "hex": "#f3efd6"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-135" ,
+    "name": "Safari Brown" ,
+    "hex": "#eadfa8"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-136" ,
+    "name": "Inca Brown" ,
+    "hex": "#d9b365"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-137" ,
+    "name": "Kraft Brown" ,
+    "hex": "#d9b365"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-139" ,
+    "name": "Sequoia Brown" ,
+    "hex": "#d9b365"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-138" ,
+    "name": "Marrakech" ,
+    "hex": "#99743f"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-140" ,
+    "name": "Mole Brown" ,
+    "hex": "#503915"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-141" ,
+    "name": "Gondola Brown" ,
+    "hex": "#412c13"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-191" ,
+    "name": "Jaima Brown" ,
+    "hex": "#f1e8de"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-94" ,
+    "name": "Dingo Brown" ,
+    "hex": "#e8d0b7"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-95" ,
+    "name": "Tana Brown" ,
+    "hex": "#d2a785"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-96" ,
+    "name": "Montserrat" ,
+    "hex": "#cc955e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-97" ,
+    "name": "Chiapas Brown" ,
+    "hex": "#a0682b"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-98" ,
+    "name": "Bean Brown" ,
+    "hex": "#a65f2f"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-100" ,
+    "name": "Coffee Brown" ,
+    "hex": "#402009"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-35" ,
+    "name": "Chocolate Brown" ,
+    "hex": "#41302a"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-101" ,
+    "name": "Ebony Brown" ,
+    "hex": "#2f1109"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-193" ,
+    "name": "Chewing Gum" ,
+    "hex": "#f6c3d3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-115" ,
+    "name": "Tutti Frutti" ,
+    "hex": "#ea949d"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-3017" ,
+    "name": "Fever Red" ,
+    "hex": "#dc534d"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-116" ,
+    "name": "Blood Red" ,
+    "hex": "#d52f25"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-3001" ,
+    "name": "Vivid Red" ,
+    "hex": "#b3061e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-47" ,
+    "name": "Clandestine Red" ,
+    "hex": "#950825"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-3004" ,
+    "name": "Bordeaux Red" ,
+    "hex": "#610819"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-3007" ,
+    "name": "Cherokee Red" ,
+    "hex": "#3a0807"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-77" ,
+    "name": "Night Red" ,
+    "hex": "#2d0604"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-194" ,
+    "name": "Supernova Pink" ,
+    "hex": "#fce6eb"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-164" ,
+    "name": "Tokyo Pink" ,
+    "hex": "#f7c7d7"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-165" ,
+    "name": "Orchid Pink" ,
+    "hex": "#ec7faa"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-4003" ,
+    "name": "Erika" ,
+    "cmyk": "0,72,11,0" ,
+    "hex": "#e85b99"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-4010" ,
+    "name": "Magenta" ,
+    "hex": "#d90075"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-166" ,
+    "name": "Açai Red" ,
+    "hex": "#9a004b"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-167" ,
+    "name": "Rioja Red" ,
+    "hex": "#6b0037"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-168" ,
+    "name": "Anger Red" ,
+    "hex": "#550026"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-169" ,
+    "name": "Taurus Red" ,
+    "hex": "#36001c"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-196" ,
+    "name": "Saudade Pink" ,
+    "hex": "#f2dddd"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-86" ,
+    "name": "Boreal Pink" ,
+    "hex": "#e3bfc3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-87" ,
+    "name": "Stereo Pink" ,
+    "hex": "#ca95a4"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-88" ,
+    "name": "Single Pink" ,
+    "hex": "#a06c7e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-89" ,
+    "name": "Compact Red" ,
+    "hex": "#864a54"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-90" ,
+    "name": "Bitacora Red" ,
+    "hex": "#582b3a"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-91" ,
+    "name": "Pandora Red" ,
+    "hex": "#4f1f30"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-92" ,
+    "name": "Gaudi Red" ,
+    "hex": "#321129"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-93" ,
+    "name": "Stendhal Red" ,
+    "hex": "#1e000e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-197" ,
+    "name": "Penelope Brown" ,
+    "hex": "#f8ede7"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-176" ,
+    "name": "Sensible Brown" ,
+    "hex": "#efd9d0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-203" ,
+    "name": "Oak Brown" ,
+    "hex": "#a86059"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-204" ,
+    "name": "Interrail Brown" ,
+    "hex": "#9f3d44"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-205" ,
+    "name": "Warrior Brown" ,
+    "hex": "#5a1521"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-200" ,
+    "name": "Plancton" ,
+    "hex": "#e8d6c8"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-64" ,
+    "name": "Respect Pink" ,
+    "hex": "#b59892"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-201" ,
+    "name": "Scarlet Brown" ,
+    "hex": "#8e6061"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-202" ,
+    "name": "Mosquito Brown" ,
+    "hex": "#684445"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-321" ,
+    "name": "April Violet" ,
+    "hex": "#e9cde4"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-195" ,
+    "name": "Shiva Violet" ,
+    "hex": "#e5cce1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-322" ,
+    "name": "Arlet Violet" ,
+    "hex": "#d0add2"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-170" ,
+    "name": "Persia Violet" ,
+    "hex": "#c5add0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-323" ,
+    "name": "Mandala Violet" ,
+    "hex": "#bc90c1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-276" ,
+    "name": "Bishop Violet" ,
+    "hex": "#C29BCB"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-275" ,
+    "name": "Raval Violet" ,
+    "hex": "#94679C"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-283" ,
+    "name": "Sultan Violet" ,
+    "hex": "#83577D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-274" ,
+    "name": "Reverend Violet" ,
+    "hex": "#6C5D80"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-310" ,
+    "name": "Republic Violet" ,
+    "hex": "#dacbe5"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-311" ,
+    "name": "Woodstock Violet" ,
+    "hex": "#cdc3e1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-171" ,
+    "name": "Community Violet" ,
+    "hex": "#b194c0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-172" ,
+    "name": "Destiny Violet" ,
+    "hex": "#8270a3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-173" ,
+    "name": "Ultraviolet" ,
+    "hex": "#6b4d8d"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-174" ,
+    "name": "Venus Violet" ,
+    "hex": "#483366"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-175" ,
+    "name": "Electra Violet" ,
+    "hex": "#32234e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-28" ,
+    "name": "Cosmos Violet" ,
+    "hex": "#241c46"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-27" ,
+    "name": "Vampire Violet" ,
+    "hex": "#140632"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-312" ,
+    "name": "Sagan Blue" ,
+    "hex": "#c1cae8"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-313" ,
+    "name": "Martínez Blue" ,
+    "hex": "#aebee3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-314" ,
+    "name": "Rosemary Blue" ,
+    "hex": "#9db1dc"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-315" ,
+    "name": "Dancer Blue" ,
+    "hex": "#85a0d3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-316" ,
+    "name": "Marseille Blue" ,
+    "hex": "#6386c3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-317" ,
+    "name": "Porto Blue" ,
+    "hex": "#616cb1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-318" ,
+    "name": "Ween Blue" ,
+    "hex": "#3b54a1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-319" ,
+    "name": "Tuareg Blue" ,
+    "hex": "#263284"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-320" ,
+    "name": "Mantra Blue" ,
+    "hex": "#302b66"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-184" ,
+    "name": "Rain Blue" ,
+    "hex": "#c4e7f8"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-149" ,
+    "hex": "#8ecae5"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-150" ,
+    "name": "Argo Blue" ,
+    "hex": "#44b3df"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-151" ,
+    "name": "Freedom Blue" ,
+    "hex": "#0098d2"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-152" ,
+    "name": "Europe Blue" ,
+    "hex": "#0074b0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-30" ,
+    "name": "Electric Blue" ,
+    "hex": "#005891"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-5005" ,
+    "name": "Dark Blue" ,
+    "hex": "#003875"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-154" ,
+    "name": "Twister Blue" ,
+    "hex": "#042151"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-5013" ,
+    "name": "Navy Blue" ,
+    "hex": "#010e30"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-185" ,
+    "name": "Angel Blue" ,
+    "hex": "#eaf0f5"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-156" ,
+    "name": "Barceloneta Blue" ,
+    "hex": "#cae4f0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-157" ,
+    "name": "Thalassa Blue" ,
+    "hex": "#a2d3ea"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-158" ,
+    "name": "Perseus Blue" ,
+    "hex": "#7fb8d5"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-159" ,
+    "name": "Odyssey Blue" ,
+    "hex": "#6ea4be"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-160" ,
+    "name": "Eureka Blue" ,
+    "hex": "#467289"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-161" ,
+    "name": "Jase Blue" ,
+    "hex": "#2e4a5b"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-162" ,
+    "name": "Deep Blue" ,
+    "hex": "#003447"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-163" ,
+    "name": "Poseydon Blue" ,
+    "hex": "#00202c"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-186" ,
+    "name": "Virgin Green" ,
+    "hex": "#f5faf7"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-142" ,
+    "name": "Gemini Green" ,
+    "hex": "#e1f0e8"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-6027" ,
+    "name": "Luminous Green" ,
+    "hex": "#a1d5cf"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-144" ,
+    "name": "Bali Green" ,
+    "hex": "#7bc6c0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-145" ,
+    "name": "Erasmus Green" ,
+    "hex": "#5bb5b5"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-5018" ,
+    "name": "Turquoise" ,
+    "hex": "#008691"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-146" ,
+    "name": "Glory Blue" ,
+    "hex": "#2d6a75"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-147" ,
+    "name": "Pegasus Blue" ,
+    "hex": "#003640"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-148" ,
+    "name": "Hercules Blue" ,
+    "hex": "#002628"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-187" ,
+    "name": "Vespa Green" ,
+    "hex": "#f1f5df"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-124" ,
+    "name": "Frisco Green" ,
+    "hex": "#d4e19e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-16" ,
+    "name": "Pistachio Green" ,
+    "hex": "#bdd268"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-125" ,
+    "name": "Neon Green" ,
+    "hex": "#a5b700"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-34" ,
+    "name": "Guacamole Green" ,
+    "hex": "#81a512"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-6018" ,
+    "name": "Valley Green" ,
+    "hex": "#4a7518"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-126" ,
+    "name": "Toscana Green" ,
+    "hex": "#2b491e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-127" ,
+    "name": "Era Green" ,
+    "hex": "#142f0f"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-6009" ,
+    "name": "Amazon Green" ,
+    "hex": "#0f2405"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-188" ,
+    "name": "Shining Green" ,
+    "hex": "#f2edbe"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-1016" ,
+    "name": "Lemon Yellow" ,
+    "hex": "#dcd872"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-129" ,
+    "name": "Oregano Green" ,
+    "hex": "#afab00"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-60" ,
+    "name": "Krypton Green" ,
+    "hex": "#83890e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-130" ,
+    "name": "Euskadi Green" ,
+    "hex": "#50590d"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-131" ,
+    "name": "Comarca Green" ,
+    "hex": "#333b08"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-132" ,
+    "name": "Borneo Green" ,
+    "hex": "#283307"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-133" ,
+    "name": "Dharma Green" ,
+    "hex": "#1e2705"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-134" ,
+    "name": "Infinite Green" ,
+    "hex": "#131c04"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-270" ,
+    "name": "Formentera Blue" ,
+    "hex": "#00B4BC"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-269" ,
+    "name": "Genesis Blue" ,
+    "hex": "#179DAB"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-268" ,
+    "name": "Tramontana Blue" ,
+    "hex": "#007788"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-199" ,
+    "name": "Java Green" ,
+    "hex": "#86c8b4"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-182" ,
+    "name": "Emerald Green" ,
+    "hex": "#009e8f"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-183" ,
+    "name": "Beryl Green" ,
+    "hex": "#117774"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-179" ,
+    "name": "Bonsai Green" ,
+    "hex": "#b8bb86"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-180" ,
+    "name": "Thai Green" ,
+    "hex": "#8e966e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-181" ,
+    "name": "Labyrinth Green" ,
+    "hex": "#47492b"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-267" ,
+    "name": "Sulfur Yellow" ,
+    "hex": "#FAEB37"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-266" ,
+    "name": "Psycho Green" ,
+    "hex": "#D5E739"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-265" ,
+    "name": "Sonar Green" ,
+    "hex": "#B9BE56"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-281" ,
+    "name": "Laser Green" ,
+    "hex": "#99C221"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-282" ,
+    "name": "Laos Green" ,
+    "hex": "#8FCB24"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-280" ,
+    "name": "Hulk Green" ,
+    "hex": "#41A248"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-272" ,
+    "name": "Mint Green" ,
+    "hex": "#29CB7E"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-273" ,
+    "name": "Iguana Green" ,
+    "hex": "#8CC947"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-271" ,
+    "name": "Mystic Green" ,
+    "hex": "#25BD59"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-1017" ,
+    "name": "Peach" ,
+    "hex": "#E6A65D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-1028" ,
+    "name": "Medium Yellow" ,
+    "hex": "#FFA300"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-207" ,
+    "name": "Mango" ,
+    "hex": "#E87722"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-177" ,
+    "name": "Eldorado" ,
+    "hex": "#f1c700"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-178" ,
+    "name": "Tibet" ,
+    "hex": "#d58b26"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-8023" ,
+    "name": "Mustard" ,
+    "hex": "#a76225"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-99" ,
+    "name": "Glace Brown" ,
+    "hex": "#7a3d24"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-278" ,
+    "name": "Joker Pink" ,
+    "hex": "#E44c9A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-277" ,
+    "name": "Disco Pink" ,
+    "hex": "#BD51A2"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-279" ,
+    "name": "Rosario Pink" ,
+    "hex": "#DC4588"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-3020" ,
+    "name": "Light Red" ,
+    "hex": "#ef3a38"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-241" ,
+    "name": "Madrid Red" ,
+    "hex": "#F65058"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-245" ,
+    "name": "Cyan" ,
+    "hex": "#00FFFF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-243" ,
+    "name": "Babylon Blue" ,
+    "hex": "#3D5588"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-198" ,
+    "name": "Stardust Grey" ,
+    "hex": "#eef0f1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-7047" ,
+    "name": "Siberian Grey" ,
+    "hex": "#dbdddf"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-118" ,
+    "name": "Rita Grey" ,
+    "hex": "#cdd0d1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-7040" ,
+    "hex": "#cdd0d1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-119" ,
+    "name": "London Grey" ,
+    "hex": "#898b8e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-120" ,
+    "name": "Wolf Grey" ,
+    "hex": "#5b5b5e"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-121" ,
+    "name": "Icarus Grey" ,
+    "hex": "#48484b"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-7016" ,
+    "name": "Anthracite Grey" ,
+    "hex": "#363538"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-78" ,
+    "name": "Metropolis Grey" ,
+    "hex": "#262227"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-300" ,
+    "name": "Tofu Grey" ,
+    "hex": "#fef9e3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-301" ,
+    "name": "Placebo Grey" ,
+    "hex": "#fef9e3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-302" ,
+    "name": "Koala Grey" ,
+    "hex": "#d8cdc3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-303" ,
+    "name": "Native Grey" ,
+    "hex": "#bcb2ad"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-304" ,
+    "name": "Balboa Grey" ,
+    "hex": "#a29690"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-305" ,
+    "name": "Cloud Grey" ,
+    "hex": "#c9d2d7"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-306" ,
+    "name": "Winter Grey" ,
+    "hex": "#b7c1cd"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-307" ,
+    "name": "Jaws Grey" ,
+    "hex": "#abb5c1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-308" ,
+    "name": "Whale Grey" ,
+    "hex": "#6b7c91"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-309" ,
+    "cmyk": "70, 50, 38, 5" ,
+    "hex": "#5e7386"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-9010" ,
+    "name": "White" ,
+    "hex": "#FFFFFF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "RV-9011" ,
+    "name": "Black" ,
+    "hex": "#000000"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Jewel Silver" ,
+    "name": "Jewel Silver" ,
+    "hex": "#727171"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Frame Gold" ,
+    "name": "Frame Gold" ,
+    "hex": "#D4AF37"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Copper Triumph" ,
+    "name": "Copper Triumph" ,
+    "hex": "#B87333"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Fluorescent Yellow" ,
+    "name": "Fluorescent Yellow" ,
+    "hex": "#fdef4c"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Fluerescent Orange" ,
+    "name": "Fluerescent Orange" ,
+    "hex": "#f68b1f"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Fluorescent Red" ,
+    "name": "Fluorescent Red" ,
+    "hex": "#ef3a4d"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Fluorescent Fucsia" ,
+    "name": "Fluorescent Fucsia" ,
+    "hex": "#ee4d9b"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Fluorescent Violet" ,
+    "name": "Fluorescent Violet" ,
+    "hex": "#9857a5"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Fluorescent Blue" ,
+    "name": "Fluorescent Blue" ,
+    "hex": "#008dd2"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Fluorescent Green" ,
+    "name": "Fluorescent Green" ,
+    "hex": "#61bb46"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Ethereal Yellow Spectral" ,
+    "name": "Ethereal Yellow Spectral" ,
+    "hex": "#fffaa3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Calima Orange Spectral" ,
+    "name": "Calima Orange Spectral" ,
+    "hex": "#fbb36d"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Soul Red Spectral" ,
+    "name": "Soul Red Spectral" ,
+    "hex": "#eda795"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Judea Brown Spectral" ,
+    "name": "Judea Brown Spectral" ,
+    "hex": "#b79e74"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Aura Violet Spectral" ,
+    "name": "Aura Violet Spectral" ,
+    "hex": "#c5add0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Atmosphere Blue Spectral" ,
+    "name": "Atmosphere Blue Spectral" ,
+    "hex": "#afccdf"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Breeze Green Spectral" ,
+    "name": "Breeze Green Spectral" ,
+    "hex": "#a1d5cf"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Air White Spectral" ,
+    "name": "Air White Spectral" ,
+    "hex": "#ffffff"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Spectral Smoke Grey" ,
+    "name": "Spectral Smoke Grey" ,
+    "hex": "#cdcdcd"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 1 ,
+    "code": "Shadow Black Spectral" ,
+    "name": "Shadow Black Spectral" ,
+    "hex": "#a6a6a7"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-252" ,
+    "name": "Unicorn Yellow" ,
+    "hex": "#FFFFBF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-222" ,
+    "name": "Beach Yellow" ,
+    "hex": "#FFF386"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-7" ,
+    "name": "Cream" ,
+    "hex": "#fff7b6"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-20" ,
+    "name": "Party Yellow" ,
+    "hex": "#FFF048"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-1021" ,
+    "name": "Light Yellow" ,
+    "hex": "#FFE100"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-239" ,
+    "name": "Luxor Yellow" ,
+    "hex": "#FAB700"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-11" ,
+    "name": "Ganges Yellow" ,
+    "hex": "#C8A10A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-206" ,
+    "name": "Atacama Yellow" ,
+    "hex": "#FBCB8C"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-1017" ,
+    "name": "Peach" ,
+    "hex": "#F9BA57"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-1028" ,
+    "name": "Medium Yellow" ,
+    "hex": "#F6A800"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-207" ,
+    "name": "Mango" ,
+    "hex": "#E77A19"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-8023" ,
+    "name": "Mustard" ,
+    "hex": "#E77A19"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-261" ,
+    "name": "Pangea Brown" ,
+    "hex": "#933B00"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-18" ,
+    "name": "Rust Red" ,
+    "hex": "#6D2601"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-9" ,
+    "name": "Apricot" ,
+    "hex": "#FAC294"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-208" ,
+    "name": "Pumpkin" ,
+    "hex": "#F6AD6B"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-2003" ,
+    "name": "Pastel Orange" ,
+    "hex": "#EC753B"
+  } ,
+  {
+    "brandID": 1 ,
+    "code": "RV-209" ,
+    "name": "Calcutta Orange" ,
+    "hex": "#DC4126"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-210" ,
+    "name": "Prometheus Orange" ,
+    "hex": "#910e14"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-260" ,
+    "name": "Iroko Red" ,
+    "hex": "#910e14"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-259" ,
+    "name": "Flamingo" ,
+    "hex": "#FF958E"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-33" ,
+    "name": "Colorado Red" ,
+    "hex": "#E74F45"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-3020" ,
+    "name": "Light Red" ,
+    "hex": "#E5352D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-3001" ,
+    "name": "Vivid Red" ,
+    "hex": "#C90019"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-241" ,
+    "name": "Madrid Red" ,
+    "hex": "#C52332"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-242" ,
+    "name": "Soviet Red" ,
+    "hex": "#8d0000"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-3004" ,
+    "name": "Bordeaux Red" ,
+    "hex": "#82131D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-348" ,
+    "name": "Alice Pink" ,
+    "hex": "#F4ADC5"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-258" ,
+    "name": "Manga Pink" ,
+    "hex": "#FFA2CA"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-211" ,
+    "name": "Love Pink" ,
+    "hex": "#EE87AD"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-4003" ,
+    "name": "Erika" ,
+    "hex": "#DE336B"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-4010" ,
+    "name": "Magenta" ,
+    "hex": "#DD1D5A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-212" ,
+    "name": "Akari Red" ,
+    "hex": "#C50041"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-213" ,
+    "name": "Merlot Red" ,
+    "hex": "#762A3D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-349" ,
+    "name": "Violet Treze" ,
+    "hex": "#F6B8D0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-257" ,
+    "name": "Princess Violet" ,
+    "hex": "#CA87B6"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-224" ,
+    "name": "Witch Violet" ,
+    "hex": "#C8739F"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-225" ,
+    "name": "Geisha Violet" ,
+    "hex": "#C15C92"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-350" ,
+    "name": "Pure Purple" ,
+    "hex": "#8F154B"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-226" ,
+    "name": "Tube Violet" ,
+    "hex": "#7C3F60"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-4007" ,
+    "name": "Cherry" ,
+    "hex": "#582741"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-256" ,
+    "name": "Malva" ,
+    "hex": "#ACA6D1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-214" ,
+    "name": "Violet" ,
+    "hex": "#9993C3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-215" ,
+    "name": "Prophet Violet" ,
+    "hex": "#6D63A5"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-3" ,
+    "name": "Blue Violet" ,
+    "hex": "#574A96"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-216" ,
+    "name": "Anonymous Violet" ,
+    "hex": "#45347A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-264" ,
+    "name": "Galaxy Violet" ,
+    "hex": "#2F2280"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-27" ,
+    "name": "Vampire Violet" ,
+    "hex": "#00084D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-73" ,
+    "name": "Aurora Blue" ,
+    "hex": "#C8D3ED"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-351" ,
+    "name": "Hortensia Blue" ,
+    "hex": "#889ed1"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-352" ,
+    "name": "Gala Blue" ,
+    "hex": "#5d78ba"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-353" ,
+    "name": "Julione Blue" ,
+    "hex": "#40549f"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-243" ,
+    "name": "Babylon Blue" ,
+    "hex": "#3D5588"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-32" ,
+    "name": "Lewis Blue" ,
+    "hex": "#213a8f"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-354" ,
+    "name": "Universe Blue" ,
+    "hex": "#0F2354"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-74" ,
+    "name": "Costa Brava Blue" ,
+    "hex": "#94BFE5"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-227" ,
+    "name": "Waimea Blue" ,
+    "hex": "#6F9FD0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-228" ,
+    "name": "Zeppelin Blue" ,
+    "hex": "#4875B3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-229" ,
+    "name": "Andromeda Blue" ,
+    "hex": "#465499"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-5002" ,
+    "name": "Ultramarine Blue" ,
+    "hex": "#37306A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-230" ,
+    "name": "Leviathan Blue" ,
+    "hex": "#0D0F49"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-75" ,
+    "name": "Nostromo Blue" ,
+    "hex": "#020E37"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-13" ,
+    "name": "Himalayan Blue" ,
+    "hex": "#97e6ff"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-29" ,
+    "name": "Arctic Blue" ,
+    "hex": "#6BDCFF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-8" ,
+    "name": "Carlota Light Blue" ,
+    "hex": "#60C5E7"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-217" ,
+    "name": "Avatar Blue" ,
+    "hex": "#00A2DD"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-30" ,
+    "name": "Electric Blue" ,
+    "hex": "#007FC4"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-5005" ,
+    "name": "Dark Blue" ,
+    "hex": "#00659D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-218" ,
+    "name": "Neptune Blue" ,
+    "hex": "#004578"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-355" ,
+    "name": "Fukushima Blue" ,
+    "hex": "#8ECFD3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-255" ,
+    "name": "Patagonia Blue" ,
+    "hex": "#83CCDF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-231" ,
+    "name": "Cousteau Blue" ,
+    "hex": "#1BB2C4"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-232" ,
+    "name": "Glacier Blue" ,
+    "hex": "#009CAB"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-14" ,
+    "name": "Planet Blue" ,
+    "hex": "#008098"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-233" ,
+    "name": "Christiania Blue" ,
+    "hex": "#006675"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-234" ,
+    "name": "Indigo Blue" ,
+    "hex": "#004750"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-356" ,
+    "name": "Vintage Blue" ,
+    "hex": "#97D2D0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-357" ,
+    "name": "Iceberg Blue" ,
+    "hex": "#6EC3BF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-358" ,
+    "name": "Water Lily Blue" ,
+    "hex": "#60B3AC"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-359" ,
+    "name": "Mururoa Blue" ,
+    "hex": "#008C8D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-5021" ,
+    "name": "Caribbean Blue" ,
+    "hex": "#007F80"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-360" ,
+    "name": "Major Blue" ,
+    "hex": "#1F6363"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-5020" ,
+    "name": "Ocean Blue" ,
+    "hex": "#00454E"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-361" ,
+    "name": "Potosi Green" ,
+    "hex": "#C5EFDA"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-254" ,
+    "name": "Max Green" ,
+    "hex": "#9FE5C2"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-219" ,
+    "name": "Paris Green" ,
+    "hex": "#8BC8AA"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-220" ,
+    "name": "UFO Green" ,
+    "hex": "#5BB89E"
+  } ,
+  {
+    "colorId": 303 ,
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-21" ,
+    "name": "Surgical Green" ,
+    "cmyk": "100, 0, 66, 0" ,
+    "hex": "#009473" ,
+    "pantone": "334 C"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-6016" ,
+    "name": "Dark Green" ,
+    "hex": "#008352"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-221" ,
+    "name": "Persephone Green" ,
+    "hex": "#005231"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-24" ,
+    "name": "Golden Green" ,
+    "hex": "#9CCD9A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-4" ,
+    "name": "Light Green" ,
+    "hex": "#74B957"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-34" ,
+    "name": "Guacamole Green" ,
+    "hex": "#88B14F"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-6018" ,
+    "name": "Valley Green" ,
+    "hex": "#88B14F"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-237" ,
+    "name": "Cologno N. Green" ,
+    "hex": "#6A8515"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-5" ,
+    "name": "Lutecia Green" ,
+    "hex": "#005900"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-6009" ,
+    "name": "Amazonas Green" ,
+    "hex": "#0F2405"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-235" ,
+    "name": "Poison Green" ,
+    "hex": "#DEDD3A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-235" ,
+    "name": "Poison Green" ,
+    "hex": "#DEDD3A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-236" ,
+    "name": "Mojito Green" ,
+    "hex": "#CED50A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-16" ,
+    "name": "Pistachio Green" ,
+    "hex": "#B0C643"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-362" ,
+    "name": "Mantis Green" ,
+    "hex": "#78BE7A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-272" ,
+    "name": "Mint Green" ,
+    "hex": "#60B565"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-363" ,
+    "name": "Natura Green" ,
+    "hex": "#00964F"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-364" ,
+    "name": "Reggae Green" ,
+    "hex": "#006942"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-6019" ,
+    "name": "Pale Green" ,
+    "hex": "#CCE0AC"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-253" ,
+    "name": "Element Green" ,
+    "hex": "#C5CC8F"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-15" ,
+    "name": "Apple Green" ,
+    "hex": "#ACB681"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-250" ,
+    "name": "Rambo Green" ,
+    "hex": "#8F995B"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-250" ,
+    "name": "Rambo Green" ,
+    "hex": "#8F995B"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-6013" ,
+    "name": "Khaki Green" ,
+    "hex": "#727E48"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-6003" ,
+    "name": "Olive Green" ,
+    "hex": "#60683D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-251" ,
+    "name": "Forest Green" ,
+    "hex": "#46502C"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-246" ,
+    "hex": "#EECF99"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-247" ,
+    "name": "Tepuy Brown" ,
+    "hex": "#DEB276"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-248" ,
+    "name": "Baobab Brown" ,
+    "hex": "#CC9456"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-249" ,
+    "name": "Greyound Brown" ,
+    "hex": "#B0763F"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-8002" ,
+    "name": "Toasted Brown" ,
+    "hex": "#8A5531"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-8017" ,
+    "name": "Tobacco Brown" ,
+    "hex": "#402009"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-35" ,
+    "name": "Chocolate Brown" ,
+    "hex": "#4D2200"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-365" ,
+    "name": "Puchineli White" ,
+    "hex": "#F9F7EA"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-1013" ,
+    "name": "Bone White" ,
+    "hex": "#F3EFD6"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-55" ,
+    "name": "Arkalis Grey" ,
+    "hex": "#EBE6D6"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-57" ,
+    "name": "City Grey" ,
+    "hex": "#CABDB0"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-42" ,
+    "name": "Regina Grey" ,
+    "hex": "#B7A794"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-40" ,
+    "name": "Nazgul Grey" ,
+    "hex": "#928782"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-39" ,
+    "name": "Ripley Grey" ,
+    "hex": "#7E7F82"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-6" ,
+    "name": "Light Grey" ,
+    "hex": "#e1e2e2"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-366" ,
+    "name": "Squatter Grey" ,
+    "hex": "#C4C5C6"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-262" ,
+    "name": "Matter Grey" ,
+    "hex": "#7b7b7b"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-7040" ,
+    "name": "Pearl Grey" ,
+    "hex": "#7B7C7E"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-7031" ,
+    "name": "Dark Grey" ,
+    "hex": "#616264"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-263" ,
+    "name": "Sputnik Grey" ,
+    "hex": "#575757"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-7016" ,
+    "name": "Anthracite Grey" ,
+    "hex": "#464648"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-9010" ,
+    "name": "Divinity White" ,
+    "hex": "#FFFFFF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "RV-9011" ,
+    "name": "Gloss Black" ,
+    "hex": "#000000"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "Silver Chrome" ,
+    "name": "Silver Chrome" ,
+    "hex": "#727171"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "Metallic Gold" ,
+    "name": "Metallic Gold" ,
+    "hex": "#D4AF37"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 2 ,
+    "code": "Metallic Copper" ,
+    "name": "Metallic Copper" ,
+    "hex": "#B87333"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-1021" ,
+    "name": "Light Yellow" ,
+    "hex": "#ffe705"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-2003" ,
+    "name": "Pastel Orange" ,
+    "hex": "#eb690d"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-3020" ,
+    "name": "Light Red" ,
+    "hex": "#c90119"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-3004" ,
+    "name": "Bordeaux Red" ,
+    "hex": "#82131D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-211" ,
+    "name": "Love Pink" ,
+    "hex": "#EE87AD"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-4010" ,
+    "name": "Magenta" ,
+    "hex": "#e2007a"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-225" ,
+    "name": "Geisha Violet" ,
+    "hex": "#C15C92"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-214" ,
+    "name": "Violet" ,
+    "hex": "#9993C3"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-216" ,
+    "name": "Anonymous Violet" ,
+    "hex": "#45347A"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-8" ,
+    "name": "Light Blue" ,
+    "hex": "#86cbec"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-30" ,
+    "name": "Electric Blue" ,
+    "hex": "#007fb5"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-5005" ,
+    "name": "Dark Blue" ,
+    "hex": "#00659D"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-219" ,
+    "name": "Paris Green" ,
+    "hex": "#8BC8AA"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-21" ,
+    "name": "Surgical Green" ,
+    "hex": "#009473"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-34" ,
+    "name": "Guacamole Green" ,
+    "hex": "#91bd10"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-5" ,
+    "name": "Lutecia Green" ,
+    "hex": "#005900"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-8002" ,
+    "name": "Toasted Brown" ,
+    "hex": "#8A5531"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-9010" ,
+    "name": "White" ,
+    "hex": "#FFFFFF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-7040" ,
+    "name": "Pearl Grey" ,
+    "hex": "#7B7C7E"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 3 ,
+    "code": "RV-9011" ,
+    "name": "Black" ,
+    "hex": "#1a171b"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 4 ,
+    "code": "RV-1021" ,
+    "name": "Light Yellow" ,
+    "hex": "#ffe705"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 4 ,
+    "code": "RV-2004" ,
+    "name": "Orange" ,
+    "hex": "#eb690d"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 4 ,
+    "code": "RV-3001" ,
+    "name": "Vivid Red" ,
+    "hex": "#c90119"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 4 ,
+    "code": "RV-27" ,
+    "name": "Vampire Violet" ,
+    "hex": "#3e2d65"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 4 ,
+    "code": "RV-8" ,
+    "name": "Light Blue" ,
+    "hex": "#86cbec"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 4 ,
+    "code": "RV-5013" ,
+    "name": "Navy Blue" ,
+    "hex": "#002b51"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 4 ,
+    "code": "RV-34" ,
+    "name": "Guacamole Green" ,
+    "hex": "#91bd10"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 4 ,
+    "code": "RV-9011" ,
+    "name": "Black" ,
+    "hex": "#000000"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 4 ,
+    "code": "RV-9010" ,
+    "name": "White" ,
+    "hex": "#ffffff"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 4 ,
+    "code": "Silver" ,
+    "name": "Silver" ,
+    "cmyk": "" ,
+    "hex": "#727171"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "RV-9011" ,
+    "name": "Black" ,
+    "hex": "#000000"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "RV-9010" ,
+    "name": "White" ,
+    "hex": "#FFFFFF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "Silver" ,
+    "name": "Silver" ,
+    "hex": "#727171"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "RV-9011" ,
+    "name": "Black" ,
+    "hex": "#000000"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "Silver" ,
+    "name": "Silver" ,
+    "hex": "#727171"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "RV-1021" ,
+    "name": "Light Yellow" ,
+    "hex": "#ffea00"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "RV-3001" ,
+    "name": "Light Red" ,
+    "hex": "#c2173c"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "RV-216" ,
+    "name": "Anonymous Violet" ,
+    "hex": "#00217b"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "RV-30" ,
+    "name": "Electric Blue" ,
+    "hex": "#006393"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "RV-219" ,
+    "name": "Paris Green" ,
+    "hex": "#59b7ae"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 5 ,
+    "code": "RV-9010" ,
+    "name": "White" ,
+    "hex": "#ffffff"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 8 ,
+    "code": "RV-9011" ,
+    "name": "Black" ,
+    "hex": "#1a171b"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 8 ,
+    "code": "RV-9010" ,
+    "name": "Divinity White" ,
+    "hex": "#FFFFFF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 7 ,
+    "code": "Light Yellow" ,
+    "name": "Light Yellow" ,
+    "hex": "#fedf00"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 7 ,
+    "code": "Light Red" ,
+    "name": "Light Red" ,
+    "hex": "#ef3a38"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 7 ,
+    "code": "Electric Blue" ,
+    "name": "Electric Blue" ,
+    "hex": "#007FC4"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 7 ,
+    "code": "Silver" ,
+    "name": "Silver" ,
+    "hex": "#727171"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 7 ,
+    "code": "White" ,
+    "name": "White" ,
+    "hex": "#FFFFFF"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 7 ,
+    "code": "Black" ,
+    "name": "Black" ,
+    "hex": "#000000"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 9 ,
+    "code": "Black" ,
+    "name": "Black" ,
+    "hex": "#1b0409"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 9 ,
+    "code": "White" ,
+    "name": "White" ,
+    "hex": "#ffffff"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 9 ,
+    "code": "Red" ,
+    "name": "Red" ,
+    "hex": "#d71718"
+  } ,
+  {
+    "brandID": 1 ,
+    "paletteID": 9 ,
+    "code": "Silver" ,
+    "name": "Silver" ,
+    "hex": "#727171"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N61" ,
+    "name": "Ride Yellow" ,
+    "hex": "#F4D994"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N110" ,
+    "name": "Danger Yellow" ,
+    "hex": "#EEC55C"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N155" ,
+    "name": "Cape Yellow" ,
+    "hex": "#EDBD11"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N05" ,
+    "name": "Peseta Yellow" ,
+    "hex": "#e2b31b"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N111" ,
+    "name": "Worn Yellow" ,
+    "hex": "#caa72f"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N62" ,
+    "name": "asd Yellow" ,
+    "hex": "#bca032"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N106" ,
+    "name": "Peach Orange" ,
+    "cmyk": "" ,
+    "hex": "#ffb35b"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N08" ,
+    "name": "Fetid Yellow" ,
+    "hex": "#f79f24"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N107" ,
+    "name": "Toxic Yellow" ,
+    "hex": "#db9637"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N67" ,
+    "name": "Terrenal Ocher" ,
+    "hex": "#b38839"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N74" ,
+    "name": "Seafood Orange" ,
+    "hex": "#f6bea7"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N71" ,
+    "name": "Horse Organge" ,
+    "hex": "#ffa080"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N52" ,
+    "name": "Gazpacho Orange" ,
+    "hex": "#e87966"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N72" ,
+    "name": "Rusty Orange" ,
+    "hex": "#b4593c"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N162" ,
+    "name": "Coconut Brown" ,
+    "hex": "#81554a"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N04" ,
+    "name": "Dromedary Beige" ,
+    "hex": "#fdd1ac"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N140" ,
+    "name": "Pastel Orange" ,
+    "hex": "#feab89"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N70" ,
+    "name": "Syrup Orange" ,
+    "hex": "#f58555"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N09" ,
+    "name": "Without Orange" ,
+    "hex": "#f26e35"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N10" ,
+    "name": "With Orange" ,
+    "hex": "#e25d34"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N75" ,
+    "name": "Raspberry Red" ,
+    "hex": "#c35669"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N76" ,
+    "name": "Palindromic Red" ,
+    "hex": "#b04054"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N16" ,
+    "name": "Blood clot Red" ,
+    "hex": "#a33d41"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N152" ,
+    "name": "Pure Red" ,
+    "hex": "#b23539"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N015" ,
+    "name": "Calimocho Red" ,
+    "hex": "#8f363c"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N139" ,
+    "name": "Wine Red" ,
+    "hex": "#684142"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N11" ,
+    "name": "Picky Pink" ,
+    "hex": "#ebbdc7"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N136" ,
+    "name": "Blush Pink" ,
+    "hex": "#de8aa1"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N53" ,
+    "name": "Light Magenta" ,
+    "hex": "#cd80aa"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N154" ,
+    "name": "Sharp Magenta" ,
+    "hex": "#bf5a82"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N12" ,
+    "name": "Piggy Pink" ,
+    "hex": "#dbaca5"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N78" ,
+    "name": "Smoked Pink" ,
+    "hex": "#b36c7c"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N79" ,
+    "name": "Distant Red" ,
+    "hex": "#a15a68"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N80" ,
+    "name": "Congested Red" ,
+    "hex": "#874c52"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N18" ,
+    "name": "Scab Red" ,
+    "hex": "#714544"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N13" ,
+    "name": "Placenta Pink" ,
+    "hex": "#bd7e8f"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N135" ,
+    "name": "Deformation Pink" ,
+    "hex": "#a77a7d"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N17" ,
+    "name": "Cane Red" ,
+    "hex": "#895b5d"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N19" ,
+    "name": "Reddish Red" ,
+    "hex": "#5a4848"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N134" ,
+    "name": "Dull Violet" ,
+    "hex": "#52474b"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N34" ,
+    "name": "Funky Violet" ,
+    "hex": "#c4b7cb"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N164" ,
+    "name": "Pleasure Violet" ,
+    "hex": "#afa3b7"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N130" ,
+    "name": "Vatican Violet" ,
+    "hex": "#9981a3"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N36" ,
+    "name": "Aricose Violet" ,
+    "hex": "#866c93"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N131" ,
+    "name": "Joker Purple" ,
+    "hex": "#75627e"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N129" ,
+    "name": "Candy Violet" ,
+    "hex": "#b9acc6"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N35" ,
+    "name": "Hippie Purple" ,
+    "hex": "#a193b4"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N37" ,
+    "name": "Bruise Violet" ,
+    "hex": "#705e84"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N83" ,
+    "name": "Paramecia Violet" ,
+    "hex": "#654f7e"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N38" ,
+    "name": "Amethist Violet" ,
+    "hex": "#51435c"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N126" ,
+    "name": "Celeste Blue" ,
+    "hex": "#82c9db"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N27" ,
+    "name": "Trade Blue" ,
+    "hex": "#5db7dc"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N28" ,
+    "name": "Osmosis Blue" ,
+    "hex": "#4390bc"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N29" ,
+    "name": "Smurf Blue" ,
+    "hex": "#0496c7"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N151" ,
+    "name": "Just Blue" ,
+    "cmyk": "" ,
+    "hex": "#17679a"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N59" ,
+    "name": "Electro Blue" ,
+    "hex": "#384764"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N166" ,
+    "name": "Quiet Blue" ,
+    "hex": "#93c8e6"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N128" ,
+    "name": "Baby Blue" ,
+    "hex": "#83b5d6"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N33" ,
+    "name": "Ozone Blue" ,
+    "hex": "#649bc7"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N32" ,
+    "name": "Yin Blue" ,
+    "hex": "#5c789d"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N131" ,
+    "name": "Tattoo Blue" ,
+    "hex": "#505978"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N26" ,
+    "name": "Cooling Blue" ,
+    "hex": "#a9dbdc"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N124" ,
+    "name": "Cristaline Blue" ,
+    "hex": "#8fcecd"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N125" ,
+    "name": "Jellyfish Blue" ,
+    "hex": "#5fb1af"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N150" ,
+    "name": "Surgey Blue" ,
+    "hex": "#4b8f92"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N58" ,
+    "name": "Turquoise Blue" ,
+    "hex": "#376268"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N167" ,
+    "name": "Chicle Menta Green" ,
+    "hex": "#8acaba"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N168" ,
+    "name": "Celadon Green" ,
+    "hex": "#64bca4"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N121" ,
+    "name": "Transgenic Green" ,
+    "hex": "#40a480"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N169" ,
+    "name": "Alcarraza Green" ,
+    "hex": "#368a69"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N56" ,
+    "name": "Cucumber Green" ,
+    "hex": "#3a4946"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N20" ,
+    "name": "Digit Green" ,
+    "hex": "#c9e58e"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N93" ,
+    "name": "Suede Green" ,
+    "hex": "#a9c36c"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N57" ,
+    "name": "Laser Green" ,
+    "hex": "#8cb042"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N24" ,
+    "name": "Roquefort Green" ,
+    "hex": "#187d55"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N122" ,
+    "name": "Monte Green" ,
+    "hex": "#3a6753"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N90" ,
+    "name": "Outdoor Green" ,
+    "hex": "#88b789"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N23" ,
+    "name": "Moss Green" ,
+    "hex": "#5c9d5b"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N153" ,
+    "name": "Eco Green" ,
+    "hex": "#508e4b"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N120" ,
+    "name": "Seaweed Green" ,
+    "hex": "#658462"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N91" ,
+    "name": "Jungletilt Green" ,
+    "hex": "#5e745f"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N88" ,
+    "name": "Alternative Green" ,
+    "hex": "#3f5d55"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N51" ,
+    "name": "Nuclear Yellow" ,
+    "hex": "#dedd37"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N69" ,
+    "name": "Acid Green" ,
+    "hex": "#cad338"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N21" ,
+    "name": "Indoor Green" ,
+    "hex": "#b5c44f"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N22" ,
+    "name": "Wisha Green" ,
+    "hex": "#b0a667"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N117" ,
+    "name": "Sabannah Green" ,
+    "hex": "#858a5f"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N118" ,
+    "name": "Camuflage Green" ,
+    "hex": "#79844d"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N114" ,
+    "name": "Pale Green" ,
+    "hex": "#ccbb87"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N112" ,
+    "name": "Waste Green" ,
+    "hex": "#98873f"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N63" ,
+    "name": "Espiritual Green" ,
+    "hex": "#807942"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N115" ,
+    "name": "Olive Green" ,
+    "hex": "#8f8967"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N119" ,
+    "name": "Militar Green" ,
+    "hex": "#686c5b"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N02" ,
+    "name": "Dermos Beige" ,
+    "hex": "#daceb8"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N65" ,
+    "name": "Pistil Green" ,
+    "hex": "#a88e69"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N66" ,
+    "name": "Mimetized Green" ,
+    "hex": "#948568"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N94" ,
+    "name": "Cuco Green" ,
+    "hex": "#8a6f44"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N95" ,
+    "name": "Bitgreen Ocher" ,
+    "hex": "#796646"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N003" ,
+    "name": "Rope Cream" ,
+    "hex": "#e4c6a4"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N64" ,
+    "name": "Oats Ocher" ,
+    "hex": "#c89d6a"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N108" ,
+    "name": "Desert Yellow" ,
+    "hex": "#c69351"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N48" ,
+    "name": "Era Ocher" ,
+    "hex": "#b68040"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N109" ,
+    "name": "Toffee Brown" ,
+    "hex": "#a47944"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N68" ,
+    "name": "Sponge Yellow" ,
+    "hex": "#fecc8d"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N105" ,
+    "name": "Fresh Orange" ,
+    "hex": "#edbb86"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N06" ,
+    "name": "Nécora Yellow" ,
+    "hex": "#e6ac62"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N104" ,
+    "name": "Knoll Ocher" ,
+    "hex": "#c69668"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N45" ,
+    "name": "Brick Brown" ,
+    "hex": "#a16c42"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N98" ,
+    "name": "Without Skin" ,
+    "hex": "#c4b2b0"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N143" ,
+    "name": "Beech Brown" ,
+    "hex": "#ad8d81"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N145" ,
+    "name": "Rock Brown" ,
+    "hex": "#7f6d69"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N144" ,
+    "name": "Pure Brown" ,
+    "hex": "#594343"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N97" ,
+    "name": "Bonbon Brown" ,
+    "hex": "#514946"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N159" ,
+    "name": "Diet Brown" ,
+    "hex": "#d5c3af"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N157" ,
+    "name": "Dune Brown" ,
+    "hex": "#c79d87"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N161" ,
+    "name": "Camello Brown" ,
+    "hex": "#b2856e"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N73" ,
+    "name": "Roof Brown" ,
+    "hex": "#8e563f"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N160" ,
+    "name": "Box Brown" ,
+    "hex": "#c7a894"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N141" ,
+    "name": "Clay Brown" ,
+    "hex": "#c48365"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N158" ,
+    "name": "Combi Brown" ,
+    "hex": "#a9765b"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N47" ,
+    "name": "Freckle Brown" ,
+    "hex": "#795849"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N156" ,
+    "name": "Queen Purple" ,
+    "hex": "#9c4981"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N54" ,
+    "name": "Potion Purple" ,
+    "hex": "#8a486c"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N137" ,
+    "name": "Party Violet" ,
+    "hex": "#7b4e6b"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N40" ,
+    "name": "Smoke Grey" ,
+    "hex": "#c2c4c3"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N41" ,
+    "name": "Alergic Grey" ,
+    "hex": "#9a9e9f"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N170" ,
+    "name": "Gargoyle Grey" ,
+    "hex": "#7c8183"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N42" ,
+    "name": "Menhir Grey" ,
+    "hex": "#696e72"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N60" ,
+    "name": "Magnum Grey" ,
+    "hex": "#545559"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N147" ,
+    "name": "Moon Grey" ,
+    "hex": "#afaab1"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N100" ,
+    "name": "Distant Grey" ,
+    "hex": "#8a848c"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N43" ,
+    "name": "Baday Grey" ,
+    "hex": "#686169"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N148" ,
+    "name": "Dolphin Grey" ,
+    "hex": "#66636a"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N01" ,
+    "name": "Black" ,
+    "hex": "#000"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N50" ,
+    "name": "White" ,
+    "hex": "#ffffff"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N501" ,
+    "name": "Transparent White" ,
+    "hex": "#eeeee2"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N502" ,
+    "name": "Transparent Black" ,
+    "hex": "#56534e"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N177" ,
+    "name": "Gold" ,
+    "hex": "#d5c07f"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N49" ,
+    "name": "Silver" ,
+    "hex": "#dddddd"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "S553" ,
+    "name": "Matt Varnish" ,
+    "hex": "#efefef"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "S551" ,
+    "name": "Gloss Varnish" ,
+    "hex": "#f9f9f9"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N171" ,
+    "name": "Fluor Yellow" ,
+    "hex": "#e3e82a"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N172" ,
+    "name": "Fluor Orange" ,
+    "hex": "#fe906d"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N173" ,
+    "name": "Fluor Red" ,
+    "hex": "#ff7376"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N174" ,
+    "name": "Fluor Cherry" ,
+    "hex": "#ff41b5"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N175" ,
+    "name": "Fluor Blue" ,
+    "hex": "#0083cb"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 10 ,
+    "code": "N176" ,
+    "name": "Fluor Green" ,
+    "hex": "#38d530"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 11 ,
+    "code": "" ,
+    "name": "Matt Silver" ,
+    "hex": "#a7a7a7"
+  } ,
+  {
+    "brandID": 2 ,
+    "paletteID": 11 ,
+    "code": "" ,
+    "hex": "#000000" ,
+    "name": "Matt Black"
+  }
+]
